@@ -1,0 +1,17 @@
+.footer {
+  display: block;
+  text-align: center;
+  align-items: center;
+  background-color: black;
+  padding: 40px;
+}
+
+.fab {
+  line-height: 1;
+  width: 2em;
+  color: green;
+}
+
+.footer p {
+  color: grey;
+}

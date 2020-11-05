@@ -1,0 +1,14 @@
+.banner {
+  background-image: url("https://images.pexels.com/photos/2072060/pexels-photo-2072060.jpeg?cs=srgb&dl=pexels-junior-teixeira-2072060.jpg&fm=jpg");
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  align-items: center;
+}
+
+.banner-center{
+  color: white;
+}
